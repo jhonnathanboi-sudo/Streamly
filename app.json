@@ -3,8 +3,9 @@
   "description": "Entertainment, Simplified",
   "version": "0.1.0",
   "category": "Media",
-  "icon": "https://raw.githubusercontent.com/jhonnathanboi-sudo/Streamly/refs/heads/main/S.png?token=GHSAT0AAAAAAEGINROZIPUQ2VWNCTYHQXOS2UGQMNQ",
+  "icon": "https://raw.githubusercontent.com/jhonnathanboi-sudo/Streamly/refs/heads/main/S.png",
   "author": "Mineta 2.0",
   "repository": "https://github.com/jhonnathanboi-sudo/Streamly",
-  "platform": "windows"
+  "platform": "windows",
+  "installable": true
 }
