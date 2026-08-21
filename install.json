@@ -5,6 +5,7 @@
   "paths": [
     "%LOCALAPPDATA%\\Programs\\Streamly\\Streamly.exe"
   ],
+  "uninstallerName": "Uninstall Streamly.exe",
   "version": {
     "source": "file"
   }
