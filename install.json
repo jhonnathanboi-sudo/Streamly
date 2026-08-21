@@ -1,0 +1,11 @@
+{
+  "executableNames": [
+    "Streamly.exe"
+  ],
+  "paths": [
+    "%LOCALAPPDATA%\\Programs\\Streamly\\Streamly.exe"
+  ],
+  "version": {
+    "source": "file"
+  }
+}
